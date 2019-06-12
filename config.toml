@@ -1,0 +1,57 @@
+baseurl = "https://criticalgamemastery.com/"
+title = "Critical Game Mastery"
+theme = "whiteplain"
+languageCode = "en"
+pygmentsCodeFences = true
+disqusShortname = "criticalgamemastery"
+googleAnalytics = "UA-141951161-1"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright 2019 Critical Game Mastery"
+
+[params]
+  # whether to use CDN or local file for fontawesome
+  #useCDN = false
+  # whether to include external sharing scripts and icons for twitter, facebook and co.
+  #showShareIcons = false
+  # Date format
+  dateFormat = "January 2, 2006"
+
+[params.author]
+  name = "William Groshong"
+  gravatar = "<email or md5>"
+  twitter = "<username>"
+  email = "<email>"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[menu.main]]
+  name = "Categories"
+  identifier = "categories"
+  url = "/categories/"
+  weight = 1
+[[menu.main]]
+  name = "Tags"
+  identifier = "tags"
+  url = "/tags/"
+  weight = 2
+[[menu.main]]
+  name = "Archives"
+  identifier = "archives"
+  url = "/archives/"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about/"
+  weight = 1
+
+# Footer Menu
+[[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
