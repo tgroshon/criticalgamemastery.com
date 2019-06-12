@@ -18,10 +18,11 @@ copyright = "&copy; Copyright 2019 Critical Game Mastery"
   dateFormat = "January 2, 2006"
 
 [params.author]
-  name = "William Groshong"
+  name = "Dirk"
   gravatar = "<email or md5>"
   twitter = "<username>"
-  email = "<email>"
+  reddit = "u/criticalgamemastery"
+  email = "criticalgamemasterypodcasr@gmail.com"
 
 [taxonomies]
   category = "categories"
