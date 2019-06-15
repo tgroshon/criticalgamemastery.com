@@ -18,10 +18,10 @@ copyright = "&copy; Copyright 2019 Critical Game Mastery"
   dateFormat = "January 2, 2006"
 
 [params.author]
-  name = "Dirk"
+  name = "Critical Game Mastery"
   gravatar = "criticalgamemasterypodcast@gmail.com"
-  # twitter = "<username>"
-  reddit = "u/criticalgamemastery"
+  twitter = "@CGMDirk"
+  reddit = "criticalgamemastery"
   email = "criticalgamemasterypodcast@gmail.com"
 
 [taxonomies]
