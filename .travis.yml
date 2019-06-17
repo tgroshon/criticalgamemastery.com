@@ -1,4 +1,6 @@
 language: minimal
+git:
+  depth: 1
 script:
   - rm -rf src/public || exit 0
   - ./bin/hugo -s src
