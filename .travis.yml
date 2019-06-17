@@ -1,7 +1,7 @@
+language: minimal
 script:
   - rm -rf src/public || exit 0
   - ./bin/hugo -s src
-
 deploy:
   provider: s3
   region: us-east-2
