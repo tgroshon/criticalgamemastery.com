@@ -1,5 +1,7 @@
 # CriticalGameMastery.com
 
+[![Build Status](https://travis-ci.org/tgroshon/criticalgamemastery.com.svg?branch=master)](https://travis-ci.org/tgroshon/criticalgamemastery.com)
+
 The website is built with [Hugo](https://gohugo.io) and deployed on AWS using an
 S3 bucket for static file hosting, CloudFront for content distribution,
 Certificate Manager for SSL/TLS certificate, and Route53 for domain registration
