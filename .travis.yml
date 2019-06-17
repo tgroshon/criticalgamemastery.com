@@ -1,0 +1,14 @@
+before_deploy:
+  - rm -rf src/public || exit 0
+  - ./bin/hugo -s src
+
+deploy:
+  provider: s3
+  region: us-east-2
+  bucket: criticalgamemastery.com
+  acl: public_read
+  cache_control: "max-age=500"
+  local_dir: src/public
+  skip_cleanup: true
+  on:
+    branch: master
