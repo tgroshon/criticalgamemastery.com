@@ -7,8 +7,21 @@ and DNS management.
 
 ## Manual Deploy
 
-To build and deploy the latest website files, do the following:
+Must install [Hugo](https://gohugo.io/getting-started/installing/) and [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).
 
-1. Change directories to `src`
-2. Build site files by running `hugo` (or `hugo.exe` on Windows)
-3. Deploy built files to S3 with [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html): `aws s3 cp --recursive public s3://criticalgamemastery.com --cache-controle max-age=500 --acl public-read`
+### Option 1: Use Deploy script
+
+Execute either `./bin/deploy.sh` on Unix or `bin\deploy.bat` on Windows.
+
+### Option 2: Step by step
+
+1. Build site files by running `hugo -s src` (or `hugo.exe` on Windows)
+2. Deploy files to S3:
+
+Unix:
+
+`aws s3 cp --recursive src/public s3://criticalgamemastery.com --cache-control max-age=500 --acl public-read`
+
+Or Windows
+
+`aws s3 cp --recursive src\public s3://criticalgamemastery.com --cache-control max-age=500 --acl public-read`
