@@ -1,6 +1,7 @@
 ---
 title: "Character Development"
 draft: true
+date: 2019-06-25
 ---
 
 
