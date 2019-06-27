@@ -15,14 +15,14 @@ Character Development
   At the end of this article I will present some examples for a few NPCs illustrating the techniques I use to developing powerful characters. 
 
 Breaking Bad
-------------------------
+------------
 
   One of the best and most influential TV shows of our age. Part of what makes this show so powerful and moving is the incredible writing and character development that resulted in memorable characters that became household names. When I say Breaking Bad, anyone who has heard of the show is going to list a few characters: Walter White, Jesse Pinkman, Mike, Saul Goodman. My belief on what makes these characters, and this show, is the powerful writing involved in every instance and encounter with these characters that made them who they are.
 
   Part of what prompted this article is the fact that. Yes. I **am** rewatching Breaking Bad. It’s a great show, but let’s put a pin in the Breaking Bad thing for a sec. I’ll circle the conversation all the way around in a slightly meandering route. Don’t worry.
 
 The Theory of Relativity
------------------------------------------------
+------------------------
 
   Have you ever watched a show or read a book and simply couldn’t keep track of which characters were which or worse, why you should give a crap about them or their dreams, goals, problems, and story arcs? There is a form of detachment that pushes the viewer or participator away that is created when a character cannot be related to, or worse is made to be relatable but instead turns out to be the Centerfold or Cringe or involve copious eye rolling whenever they are seen or mentioned. 
 
@@ -43,7 +43,7 @@ The Theory of Relativity
   I recommend you practice identifying these concepts when you are watching a movie or TV show or reading a book. You will find, as I did, that the characters you like that you can remember their name for more than 2 minutes, are the ones that share many of the traits I laid out above.
 
 Anchors & Changers
------------------------------------
+------------------
 
   Let’s reel this back in to Breaking Bad and, by extension, every great movie or memorable character in pop culture. What I feel makes many of the characters so memorable is the fact that either they are a Changer or an Anchor. Let’s define what these concepts are.
 
