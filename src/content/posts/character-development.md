@@ -24,7 +24,7 @@ Breaking Bad
 The Theory of Relativity
 ------------------------
 
-  Have you ever watched a show or read a book and simply couldn’t keep track of which characters were which or worse, why you should give a crap about them or their dreams, goals, problems, and story arcs? There is a form of detachment that pushes the viewer or participator away that is created when a character cannot be related to, or worse is made to be relatable but instead turns out to be the Centerfold or Cringe or involve copious eye rolling whenever they are seen or mentioned. 
+  Do you remember watching a show or reading a book and not being able to keep track of which characters were which or worse, why you should give a crap about them or their dreams, goals, problems, and story arcs? There is a form of detachment that pushes the viewer or participator away that is created when a character cannot be related to, or worse is made to be relatable but instead turns out to be the Centerfold or Cringe or involve copious eye rolling whenever they are seen or mentioned. 
 
   I can’t be the only one who feels this way. I’m not going to call out the countless shows and movies I have sat down and attempted to watch but simply couldn’t force my interest long enough to keep from sitting on my phone scrolling through Reddit or Discord.
 
