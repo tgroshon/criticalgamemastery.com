@@ -90,7 +90,7 @@ Anchors & Changers
 
 ### Putting it Together
 
-  Anchors and Changers work hand in hand. They compliment each other. Neither one is better than the other for pushing a story forward, and both can, and should, be memorable. 
+  Anchors and Changers work hand in hand. They compliment each other. Neither one is better than the other for pushing a story forward, and both can, and should, be memorable. These characters are made to make each other shine and show evidence of a dynamic, living world. Let's put these concepts that I've laid out to work and make them useful.
 
 ###### How Many?
 
