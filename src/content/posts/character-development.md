@@ -94,15 +94,21 @@ Anchors & Changers
 
 ###### How Many?
 
-  Each noteworthy NPC should be bundled in groups of 3 to 5, linked by common goals, interests, and relationships. Normally, I put 1 or 2 Changers at the center of this, and then an equal split of Catalyst and Stabilizer Anchors.
+  Each noteworthy NPC should be bundled in groups of 3 to 5, linked by common goals, interests, and relationships. Normally, I put 1 or 2 Changers at the center of this, and then an equal split of Catalyst and Stabilizer Anchors. Any less than 3 and you risk not providing enough contrast between the Changers and the Anchors l, not to mention the metamorphosis of that Changer, and any more than 5 and the story itself is put in danger of becoming needlessly bloated, complex, and tedious. Complexity can be a good thing in some respects, but in a lot of ways it just causes frustration in the writing process and loss of interest for the players. Neither of which are good outcomes.
 
-  As I previously stated, I do recommend practicing identifying these concepts in pop culture, because they are evident every. Turn on your favorite TV show or start up a movie and try to pick apart the characters. Try to identify which characters are the Changers as well as who and what type their Anchors are. 
+  Before I go much further, I do want to remind you of what I previously stated: Practice identifying the concepts outlined above in pop culture because they are evident in every story whether they are implemented well or not. Turn on your favorite TV show or start up a movie and try to pick apart the characters. Try to identify which characters are the Changers as well as who and what type their Anchors are. 
 
-  What I do to keep track of these things is fairly simple. I pick up a pack of 3x5 index cards and burn through them. The multicolored ones work great for organizing NPC groupings, but I’m not a flashy guy so I just put a number on my plain black and white cards.
+  Back to what I was trying to explain. Let's put the concepts previously discussed into action. What I do to keep track of Changers and Anchors is fairly simple. I pick up a pack of 3x5 index cards and burn through them. The multicolored ones work great for organizing NPC groupings, but I’m not a flashy guy so I just put a number on my plain black and white cards.
 
   On the front, I record the info that makes this character relatable as well as a note about whether the character is an Anchor or Changer. Lastly, I include relationship info on how this character connects to the others in its grouping.
 
   On the back, I include the information pertinent to the story and game development, i.e. how the character fits in to the world and what makes them relevant. I include the character’s goals, achievements, and ambitions.
+  
+  Throughout the campaign, your characters will undoubtedly go through revisions. Record these revisions on our index cards so you can remain consistent and maintain the continuity and identity of your characters. When one seems to be lacking in having the desired effect, kill them off and replace them with something better. Practice and experience is one of the best teachers.
+  
+  That's it. It's almost too simple. I know.
+  
+  You know that story of the machine repair tech, right? An expensive and extremely import machine breaks down in a factory. The foreman calls for the regional repair technician to come and fix it. When the fellow arrives, he turns the machine on and listens to it intently. He nods. Then he opens one of the panels and hits a mechanism with a hammer. Almost magically, the machine starts performing within tolerance again. The relieved foreman asks what the cost is for this simple service, to which the answer was a ludicrous amount of money. The technician explained that the hammer may have been minimal in cost and process seems simple in observation, but the cost of the knowledge and experience to know where and how to swing it is where the true cost lies.
 
   Thank you for reading. I hope these things can be of help to you for your games. If you’re looking for some examples I use in my games for how this is implemented, please join us on Discord. For an in depth scoop on how we designed things behind the scenes, please support us on Patreon!
   
