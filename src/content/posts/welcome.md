@@ -1,6 +1,5 @@
 ---
 title: "Welcome"
-draft: true
 date: 2019-06-26
 ---
 
