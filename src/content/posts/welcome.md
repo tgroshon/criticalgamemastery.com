@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-date: 2019-06-26
+date: 2019-06-29
 ---
 
   Welcome to Critical Game Mastery! This is a project many years in the making that has been delayed for a myriad of reasons, some of them were semi-reasonable ones. Our goal here is to present the combined years of practice and experience at being Game Masters and players for tabletop role playing games, including the world's greatest: Dungeons & Dragons.
