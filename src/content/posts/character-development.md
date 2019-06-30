@@ -54,11 +54,11 @@ Anchors & Changers
 
   When I design a character that is a Changer, I use my "3-5 Rule" to create what I refer to as "Change Moments" (real creative, I know). These Change Moments are the situations where you can point to the character and say, "Hey, this guy/gal/thing is different now..." I follow the process that I have laid out below.
 
-##### The Start and the End
+#### The Start and the End
 
   The first thing I do is create a Start and an End for the character. The Start, obviously, is who and what the character is when they FIRST meet the players, and the End is what the character BECOMES. For these two points, I use the concepts I previously discussed on how to create a relatable character to create a contrast between the Start and the End version of the character.
 
-##### The Path
+#### The Path
 
   After coming up with a Start and an End for the character, as well as the defining traits of each version, I create between 1 and 3 Change Moments that show the transformation of the character. These are made with first, coming up with an Event, then modifying the traits of the character for this new transformation. 
 
@@ -72,7 +72,7 @@ Anchors & Changers
   + Being shown mercy when it is undeserved.
   + Overly cruel, torturous punishment for a crime or misdeed, or for no reason at all.
 
-##### Poor Execution
+#### Poor Execution
 
   Let’s talk about a poorly executed Changer for a second. Most of the time this involves the "saint turned villain" trope. One of my biggest problems with many "saint turned villain" tropes is that their evolution doesn’t make any damn sense. I’m going to take a shot at a forbidden subject here. Star Wars. Let’s talk about how Anakin, in the prequels, just turned into a bad guy out of NOWHERE because friends of his said not-nice-things to him, he knocked up a woman 20 years his senior, and went from killing murderous sand rapists to slaughtering an entire pre-school worth of children. Full stop. Some of you are nodding your head in agreement, and some of you handsome devils/devilettes are saying "Dirk, you’re crazy and stupid and no one likes you." That’s fine. Fact of the matter is, this character‘s development was executed so poorly that it dragged down an entire franchise.
 
@@ -87,11 +87,11 @@ Anchors & Changers
   + __*Catalyst for Change*__: These folks are important. They are the ones that prompt the Changers to do their thing, which is Change if you haven’t caught on so far. Catalysts can be villains by being the demon constantly wearing at the saints defenses until they collapse. They could be the saints that wear at evil Changers. My favorite, is when an evil Catalyst joins forces with an already evil Changer so they can buddy-cop their way to mayhem and an eventual ass kicking from some do-gooders. Hitting on the Star Wars example, Palpatine pretty much stayed the same character for 6 straight movies. Palpatine also was the Catalyst that pushed Anakin, the Changer, to become Vader through the promise of power and immortality... by murdering the child soldier members of a fanatical cult of space magic worshippers.
   + __*Stabilizers*__: Stabilizers are unique, as well as crucial to helping the Changer have a contrast that puts their metamorphosis in perspective. Instead of prompting a Changer to act and become something different, they are often the ones holding them back from their metamorphosis for good or bad reasons alike. Meandering back to my Star Wars example, Anakin’s beau acted as a Stabilizer for him by being one of the few plot devices left keeping him from becoming Darth Vader. That and the need to sever his legs and broil him in lava, but I digress.
 
-### Putting it Together
+## Putting it Together
 
   Anchors and Changers work hand in hand. They compliment each other. Neither one is better than the other for pushing a story forward, and both can, and should, be memorable. These characters are made to make each other shine and show evidence of a dynamic, living world. Let's put these concepts that I've laid out to work and make them useful.
 
-###### How Many?
+### How Many?
 
   Each noteworthy NPC should be bundled in groups of 3 to 5, linked by common goals, interests, and relationships. Normally, I put 1 or 2 Changers at the center of this, and then an equal split of Catalyst and Stabilizer Anchors. Any less than 3 and you risk not providing enough contrast between the Changers and the Anchors l, not to mention the metamorphosis of that Changer, and any more than 5 and the story itself is put in danger of becoming needlessly bloated, complex, and tedious. Complexity can be a good thing in some respects, but in a lot of ways it just causes frustration in the writing process and loss of interest for the players. Neither of which are good outcomes.
 
