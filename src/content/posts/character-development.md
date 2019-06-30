@@ -46,19 +46,19 @@ Anchors & Changers
 
   Let’s reel this back in to Breaking Bad and, by extension, every great movie or memorable character in pop culture. What I feel makes many of the characters so memorable is the fact that either they are a Changer or an Anchor. Let’s define what these concepts are.
 
-### Changer
+## Changer
 
   A *Changer* is one that, naturally, CHANGES. Wooooo! Yes, it is very straightforward. A Changer is someone who changes throughout the story to become something different. Good guys don’t have to become bad guys, and visa versa, however, these Changers do go through some kind of metamorphosis that turns them into a different character. This new character should be one that is completely alien and foreign to the original character that if you were to compare the two of them, they would seem like completely different people. This change is executed best when it is slow, methodical, and naturally occurring. 
 
-#### Designing a Changer
+### Designing a Changer
 
   When I design a character that is a Changer, I use my "3-5 Rule" to create what I refer to as "Change Moments" (real creative, I know). These Change Moments are the situations where you can point to the character and say, "Hey, this guy/gal/thing is different now..." I follow the process that I have laid out below.
 
-#### The Start and the End
+### The Start and the End
 
   The first thing I do is create a Start and an End for the character. The Start, obviously, is who and what the character is when they FIRST meet the players, and the End is what the character BECOMES. For these two points, I use the concepts I previously discussed on how to create a relatable character to create a contrast between the Start and the End version of the character.
 
-#### The Path
+### The Path
 
   After coming up with a Start and an End for the character, as well as the defining traits of each version, I create between 1 and 3 Change Moments that show the transformation of the character. These are made with first, coming up with an Event, then modifying the traits of the character for this new transformation. 
 
@@ -72,13 +72,13 @@ Anchors & Changers
   + Being shown mercy when it is undeserved.
   + Overly cruel, torturous punishment for a crime or misdeed, or for no reason at all.
 
-#### Poor Execution
+### Poor Execution
 
   Let’s talk about a poorly executed Changer for a second. Most of the time this involves the "saint turned villain" trope. One of my biggest problems with many "saint turned villain" tropes is that their evolution doesn’t make any damn sense. I’m going to take a shot at a forbidden subject here. Star Wars. Let’s talk about how Anakin, in the prequels, just turned into a bad guy out of NOWHERE because friends of his said not-nice-things to him, he knocked up a woman 20 years his senior, and went from killing murderous sand rapists to slaughtering an entire pre-school worth of children. Full stop. Some of you are nodding your head in agreement, and some of you handsome devils/devilettes are saying "Dirk, you’re crazy and stupid and no one likes you." That’s fine. Fact of the matter is, this character‘s development was executed so poorly that it dragged down an entire franchise.
 
   Next point.
   
-### The Anchor
+## The Anchor
 
   Have you ever watched a show, and just saw the writing spiral out of control with subplots and side character arcs, half of which were completely meaningless or just outright forced into view because the writers smashed some cocaine and said, "LET’S HAVE THEM GET MAD OVER A MISCOMMUNICATION that could have been resolved 10 episodes ago WHICH WILL LET US REINVENT THE CHARACTER to make them not suck anymore!!!!" Either that, or the writers just needed to fill in airtime to rake in that commercial money.
 
