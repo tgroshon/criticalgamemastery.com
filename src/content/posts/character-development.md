@@ -4,9 +4,6 @@ date: 2019-06-30
 ---
 
 
-Character Development
-=====================
-
   Let’s talk about character development (name drop). Have you ever made an NPC, or for you pretty players out there, met an NPC, that you wanted to like but you just... couldn’t? What about one that was so memorable that you and your friends joke about it as an inside joke or reference him/her/it for YEARS afterwards?!
 
   A lot of the time, these memorable NPCs are founded in humorous anecdotes. I’m not a very funny person, so I’m not even going to begin trying to write a dissertation on the foundations of comedy, but what I **will** do is provide some of my limited knowledge and experience with making NPCs that are memorable, while highlighting the concepts that I use in crafting them behind the scenes.
