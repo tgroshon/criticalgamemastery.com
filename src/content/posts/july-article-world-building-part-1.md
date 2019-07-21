@@ -1,5 +1,5 @@
 ---
-title: "World Building Part 1"
+title: "July: World Building Part 1"
 date: 2019-07-28
 draft: true
 ---
