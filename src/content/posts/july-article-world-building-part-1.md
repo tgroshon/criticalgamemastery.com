@@ -114,5 +114,7 @@ That’s all I have for this article. Stay tuned in the coming months as I post 
 Please join us on [Discord] (https://discord.gg/M3rEEGX) and talk with us about nerdy things. For an in depth scoop on how things work behind the scenes, please support us on [Patreon] (https://www.patreon.com/CriticalGameMastery)
 
 Thank you for reading,
+
 Otamhs
+
 Critical Game Mastery
