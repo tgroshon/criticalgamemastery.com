@@ -16,9 +16,7 @@ The Magnetized Condition
 Magnets are not normally dangerous. The danger comes when a living creature becomes magnetized. When magically magnetized, your whole body becomes the magnet and begins to emit a powerful magnetic field. This field starts by drawing magnetic metals to you but progressively hinders you as your body’s movements become restricted. Becoming too magnetized can disorient you to the point of rendering you unconscious or, in extreme cases, disrupting your body's processes to the point of causing death. 
 
 > **Magnetic Metals**: Adamantine, Iron, most forms of Steel.
-> 
 > **Non-Magnetic Metals**: Copper, Gold, Lead, Mithral, Silver, some forms of Steel.
->
 > **Non-Magnetic Steel**: Steel is interesting because it is an alloy. These alloys can negate or severely limit the magnetic properties of the final steel product. For the sake of sanity and simplicity, I normally rule that all steel is magnetic in my game worlds.
 
 ### Polarity Levels
@@ -48,7 +46,8 @@ Creatures who are affected by a negative polarity suffer the same effects as tho
 
 When magnetized, creatures and objects create their own magnetic field of their own polarity. This field is a sphere a number of feet in diameter equal to 5 x the polarity level. Unattended, magnetic metal objects within this magnetic field that weigh 5 lbs or less autonomously move 5 feet towards the source until they "stuck" to them.
 
-> **Polarity Field DC**: 10 + the polarity level of the highest polarity.
+> **Polarity Field DC**: 10 + twice the polarity level.
+> Use the highest Polarity Field DC when determining interactions between magnetic fields.
 
 If a magnetic creature or object that weighs at least 5 lbs becomes stuck to another magnetic creature or object weighing at least 5 lbs, it requires a strength check versus the polarity field DC, as described above, to remove it. Magnetized objects that are stuck together can hold a number of pounds equal to 200 x the lowest polarity level.
 
