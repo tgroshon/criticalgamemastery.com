@@ -8,7 +8,7 @@ Hey folks. Dirk here. I’ve been working on making some spells, items and subcl
 
 I’m going to be releasing my work in pieces to help keep things organized and coherent, as well as give me the time to properly playtest my work with the groups I play with. This first post is the Magnetized Condition, which is the cornerstone of effectively implementing Magnetism-themed magic and subclasses.
 
-Here we go!
+Click [here](https://homebrewery.naturalcrit.com/share/SJSe3lfSMB) for a pdf version.
 
 The Magnetized Condition
 ========================
@@ -67,7 +67,7 @@ If two creatures or objects with a different polarity share a magnetic field, al
 
 If a creature has a polarity level of 3 or higher, any creatures of a different polarity that ends their turn within its field must succeed on a Strength saving throw or be moved 10 feet closer to them, or half as much on a successful one. If the creature is already within 5 feet, then both creatures are considered grappling each other, albeit possibly unwillingly. Creatures grappled in this way use the polarity DC as the escape DC.
 
-Thank you for reading. I hope you feel inspired to implement this condition into your games. Please join the discussion on [Discord] (https://discord.gg/M3rEEGX). For an in depth scoop on how we designed things behind the scenes, please support us on [Patreon] (https://www.patreon.com/CriticalGameMastery)
+Thank you for reading. I hope you feel inspired to implement this condition into your games. Please join the discussion on [Discord](https://discord.gg/M3rEEGX). For an in depth scoop on how we designed things behind the scenes, please support us on [Patreon](https://www.patreon.com/CriticalGameMastery)
   
 Thank you for reading,
 
