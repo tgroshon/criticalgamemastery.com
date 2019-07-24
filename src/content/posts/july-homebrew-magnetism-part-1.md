@@ -69,8 +69,6 @@ If a creature has a polarity level of 3 or higher, any creatures of a different 
 
 Thank you for reading. I hope you feel inspired to implement this condition into your games. Please join the discussion on [Discord](https://discord.gg/M3rEEGX). For an in depth scoop on how we designed things behind the scenes, please support us on [Patreon](https://www.patreon.com/CriticalGameMastery)
   
-Thank you for reading,
-
 Dirk
 
 Critical Game Mastery
