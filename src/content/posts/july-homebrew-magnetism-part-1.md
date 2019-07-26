@@ -42,7 +42,7 @@ Creatures who are affected by a negative polarity suffer the same effects as tho
 
 > **For Example**: Grok the Barbarian fails a saving throw against an electro-magnetic effect and gains 4 positive polarity levels. His friend, Shuresh the Wizard, casts a spell on Grok that gives him 1 negative polarity level. Now Grok now has a positive polarity level of 3. Shuresh repeats this action in following turns until Grok's polarity level becomes 0, at which time the magnetized condition ends.
 
-### Magnetic Field
+## Magnetic Field
 
 When magnetized, creatures and objects create their own magnetic field of their own polarity. This field is a sphere a number of feet in diameter equal to 5 x the polarity level. Unattended, magnetic metal objects within this magnetic field that weigh 5 lbs or less autonomously move 5 feet towards the source until they "stuck" to them.
 
@@ -51,17 +51,17 @@ When magnetized, creatures and objects create their own magnetic field of their 
 
 If a magnetic creature or object that weighs at least 5 lbs becomes stuck to another magnetic creature or object weighing at least 5 lbs, it requires a strength check versus the polarity field DC, as described above, to remove it. Magnetized objects that are stuck together can hold a number of pounds equal to 200 x the lowest polarity level.
 
-## Polarity Interaction
+### Polarity Interaction
 
 Creatures and objects that are magnetized interact in different ways depending on their polarity. Just like magnets, they repel or attract one another depending on the polarity's involved and their magnetic strength.
 
-### Same Polarity
+#### Same Polarity
 
 If two creatures or objects with the same polarity share a magnetic field, all movement towards the center of a field requires 2 feet of movement to move 1 foot in addition to having disadvantage with all melee attack rolls against a magnetized creature or object of the same polarity.
 
 If a creature has a polarity level of 3 or higher, any creature of the same polarity that ends their turn within its field must succeed on a Strength saving throw or be pushed 10 feet away from them, or half as much on a successful one. 
 
-### Different Polarity
+#### Different Polarity
 
 If two creatures or objects with a different polarity share a magnetic field, all movement away from the center of a field requires 2 feet of movement to move 1 foot in addition to having advantage with all melee attack rolls against a magnetized creature or object of a different polarity. 
 
