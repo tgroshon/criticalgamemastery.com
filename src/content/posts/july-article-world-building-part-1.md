@@ -9,7 +9,11 @@ This is the first part of a multi part series on world building. Here, I will la
 A Primer on World Building
 ==========================
 
-At first when you think of World building you are getting nervous, and perhaps a little intimidated. After all, we are talking about breathing a world to life complete with history, meaning, and adventure. Now, if you are reading this, it's obvious you have some level of interest in this topic. IfI haven’t already scared you off let's start getting into the nitty gritty. 
+At first when you think of World building you are getting nervous, and perhaps a little intimidated. After all, we are talking about breathing a world to life complete with history, meaning, and adventure. Now, if you are reading this, it's obvious you have some level of interest in this topic. If I haven’t already scared you off let's start getting into the nitty gritty. 
+
+The worlds that I and Dirk make are honestly fairly piecemeal in execution at the beginning and grow over time to have depth and power. Dirk has been making D&D worlds for longer and had great advice on this: "If you spend 30 hours working on a 3 hour game, your players will only interact with 30 minutes of your world." I'm not 100% sure his math checks out, however the core concept he is trying to convey is solid.
+
+Essentially, the point here with these articles is to streamline your process to cut down on your time building to increase the player interactions with the world. In practice, the players only interact with a small percentage of the world that you painstakingly worked with creating... so why don't you unload a huge chunk of your time burden and headache by just working on the things the players interact with?
 
 Where to Start?
 ---------------
@@ -21,7 +25,7 @@ Setting the Theme also helps determine the demeanor of the NPCs of the world. Ar
 
 The Theme of your world will set the stage to determine what is to come. Sometimes, you can set a single, overarching Theme to govern the world, and have smaller, branching Themes that create variety between nations and regions.
 
-Dirk is a very big fan of his 3-5 Rule. This is a good place to apply it. When setting the groundwork for my world, I know that he uses the following format, which I think is a great place to start:
+Dirk is a very big fan of his "3-5 Rule." This is a good place to apply it. When setting the groundwork for his worlds I know that he uses the following format, which I think is a great place to start:
 
 - 1 World Theme
 - 2-4 Regional Themes that are opposites or somewhat contradicting to one another.
@@ -37,9 +41,9 @@ Here’s an example from his current game:
 Set The Stage
 -------------
 
-I try not to come up with an entire history of the world first thing. I don’t even do that second or third. The blanks for history will fill themselves in over timeS Once I come up with my Theme or Themes for my world, I set a stage for the Themes to be shown to the players. 
+This bit will feel a little tangential. I promise that things are going according to plan. You see, when first building a world for use in a game setting, I come up with my Themes and come up with a stage for where I want to showcase them. I try my very best to hammer home some of the most important themes in powerful ways. I try not to come up with an entire history of the world first thing. I don’t even do that second or third. The blanks for history will fill themselves in over time. 
 
-Here’s my advice on how to do so. First determine the "here and now" that will show the players what kinds of world they will be playing in. The questions of where things came from and how we got here can be much easier to figure out once you have determined where you are at now. It is one thing to say, "Folks, this is Dirk’s Grimdark game. Prepare to die or slowly be driven insane." It’s a completely different thing to show that the world has already started going insane and the only ones that are fighting it are the ones naive enough to believe they can win. 
+What helps me showcase my Themes to my players is come up with a "here and now" that will show the players what kind of world they will be playing in to help anchor and shape their expectations. The questions of where things came from and how we got here can be much easier to figure out once you have determined where you are at now. It is one thing to say, "Folks, this is Dirk’s Grimdark game. Prepare to die or slowly be driven insane." It’s a completely different thing to show that the world has already started going insane and the only ones that are fighting it are the ones naive enough to believe they can win. 
 
 Here are some questions I, and Dirk, ask ourselves to help set this stage:
 
@@ -57,9 +61,11 @@ Here are some additional questions you can ask yourself to help you set the stag
 
 * What is bringing your adventures together? 
 * What is the point of the adventurers meeting and what is the end goal of their quest? 
-* Do they know what the end is, or is it simply a distraction to hide the real ending? 
+* Do they know what the end is, or is it simply a distraction to hide the real ending?
+* What mood or atmosphere can I enforce that will hammer home my central theme?
+* What characters can my players meet to get a sample of the minor, regional themes that shape the dynamics and tone of my world? 
 
-Using the launchpoint, or the Stage, of the story as a foundation to build the world itself seems backwards in theory. In practice, however, it helps anchor the world in the relevant details that are shown to the players without the details becoming tedious, needless, or boring. 
+Using the launchpoint, or the Stage, of the story as a foundation to build the world itself seems backwards in theory. In practice, however, it helps anchor the world in the relevant details that are shown to the players without making the details tedious, needless or boring. 
 
 It Doesn’t Have to be Perfect
 -----------------------------
@@ -79,7 +85,7 @@ Did your players happen to piss off a whole town because they refused to help th
 How to Make Your World Breathe
 ------------------------------
 
-I am a very big fan of using the momentum of the players as the driving force change within my worlds. After creating my Themes and positioning them to be shown on the Stage, I actively work to make sure everything the players do have an impact of some kind on the world as they create their own history.
+I am a very big fan of using the momentum of the players as the driving force change within my worlds. After creating my Themes and positioning them to be shown on the Stage, I actively work to make sure everything the players do have an impact of some kind on the world as they create their own history. This is more of a side point I want to make while I have your attention. 
 
 As mentioned at the end of the last section, your world needs to move on without your players. Failing to do so can make the game feel stiff and wooden rather than dynamic and lively. Let’s use one of the greatest games of all time: Skyrim. In this fantastic game, it feels as if even though you spend all your time doing every single side quest that exists in the game, Alduin never ACTUALLY brings ruin to the world. You can finish your companions quest, Thieves’ guild quest, or end the Civil War but Alduin hasn’t destroyed the world and it doesn’t really seem like he plans on doing it unless you’re actively working to stop him. Please don’t take this as me bashing on Skyrim, because I have sunk far to many hours into that game to ever try and bash it, however, it doesn’t "breath" the way we are looking for in a tabletop roleplaying game narrative and the world really does feel as if it is made of wax or wood. 
 
