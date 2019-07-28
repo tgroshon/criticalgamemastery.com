@@ -1,7 +1,6 @@
 ---
 title: "July Homebrew: Magnetism Part 1"
 date: 2019-07-28
-draft: true
 ---
 
 Hey folks. Dirk here. I’ve been working on making some spells, items and subclasses based around Magnetism. This is partly because Magneto is my favorite X-Men villain and partly because magnets are super cool. 
