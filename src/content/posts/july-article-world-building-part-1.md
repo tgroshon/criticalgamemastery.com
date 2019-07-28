@@ -1,7 +1,6 @@
 ---
 title: "July: World Building Part 1"
 date: 2019-07-28
-draft: true
 ---
 
 This is the first part of a multi part series on world building. Here, I will lay out my foundational steps with some examples to help illustrate my point. I hope what I will share with you will be something you can use for your own games in the future. 
