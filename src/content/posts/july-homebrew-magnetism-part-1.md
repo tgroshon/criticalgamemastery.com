@@ -62,7 +62,7 @@ Creatures and objects that are magnetized interact in different ways depending o
 
 ### Same Polarity
 
-If two creatures or objects with the same polarity share a magnetic field, all movement towards the center of a field requires 2 feet of movement to move 1 foot in addition to having disadvantage with all melee attack rolls against a magnetized creature or object of the same polarity.
+If two creatures or objects with the same polarity share a magnetic field, all movement towards the center of a field requires 2 feet of movement to move 1 foot in addition to having disadvantage with all melee attack rolls against a magnetized creature or object of the same polarity. This disadvantage replaces any advantage gained from the target being Magnetized.
 
 If a creature has a polarity level of 3 or higher, any creature of the same polarity that ends their turn within its field must succeed on a Strength saving throw or be pushed 10 feet away from them, or half as much on a successful one. 
 
