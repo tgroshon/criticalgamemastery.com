@@ -91,6 +91,9 @@ Here are a couple of recommendations on how to identify and implement magic in y
 + Is magic seen positively or negatively by those that don’t use magic? Does this differ from area to area or people to people?
 + What sort of superstitions are held by those skeptical of the use of magic? What is the most ridiculous superstition currently given belief?
 + How is magic used by the rich and powerful to further their designs?
++ How does magic influence the politics and religion of a region or the world as a whole?
+
+Magic is an interesting part of a world because it literally is a power available to shape reality. As such, it can and should be made a centerpiece in politics as well as religion. An Oligarchy of Wizards that run a country where most forms of religion are banned is a very compelling and interesting portion of the world that would make it function very differently than our own.
 
 ### Technology
 
@@ -107,6 +110,7 @@ Here are some questions to ask yourself to help you identify what role technolog
 + How does technology impact the world differently than magic?
 + Why would people choose things to be done with technology over being done with magic?
 + Why would magic and technology be combined in your world, and what factions would be interested in seeing it done more often or not at all?
++ In areas where either technology or magic is either hard to access or completely void, what takes it place and to what degree?
 
 Hopefully, these questions should prompt your writing juices to help you come up with some interesting ideas with how technology fits into your world. 
 
