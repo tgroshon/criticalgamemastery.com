@@ -10,7 +10,7 @@ categories:
 
 Welcome back to the second part of our World Building mini-series! This article assumes you read [July 2019’s article on World Building: Setting the Stage](https://criticalgamemastery.com/posts/july-article-world-building-part-1/), however, you will still be able to follow along with this article even if you haven’t read it because these aren’t necessarily meant to be an exact Step-by-Step process for everyone. It is *my* / *our* process, but that does not mean it has to be yours. These steps can be taken in any order.
 
-## How *Does* the World Work?
+# How *Does* the World Work?
 
 When Dirk or I go to build a world from the ground up, we do prefer to set up the themes of the world and establish a location and setting to portray those things, but those don’t really do justice to the freshly born world. The next thing we try to figure out is: how does the world work? There are some deeper questions that branch off of this singular question, namely: what sets this world apart from others?
 
@@ -26,7 +26,7 @@ These points are in no particular order, because they normally work hand-in-hand
 
 I am going to use some examples from current and historical events (namely politics and religion), as well as pop culture, to illustrate some of the points I wish to make. I don’t want you to feel like I am preaching or pushing my beliefs or anyone else’s on you.
 
-### Politics
+## Politics
 
 I know, I know, I know... don’t talk politics, ESPECIALLY on the internet. I’m going to do it anyways. Politics and the way the governments of your world work are extremely important to helping define the unique reality you are trying to create and demonstrate to your players. They determine the ebb and flow of power and culture, as well as the drama and limitations of the present and future.
 
@@ -57,7 +57,7 @@ The last question asked above is about "factions." Every group of individuals is
 
 It is incredibly important to keep in mind, that every faction might have anywhere from a grain to a mountain of truth in their belief structure but choose to blame the other factions for the current system's downfalls. Not to mention, each faction exists on a spectrum, with there being multiple sub-factions within each faction that each take on a different perspective. 
 
-### Religion
+## Religion
 
 Staying in the controversial realms of thought, let’s talk religion. Religion has shaped the entire fabric of the world and the progression of mankind since the dawn of time. It has lead directly into creating the basis of morality in entire hemispheres of the world as well as the power structures that rule them. Religion is very commonly the foundation on which laws and government are built. 
 
@@ -75,7 +75,7 @@ The last question is very similar to one asked in the Politics section. It asks 
 
 Religion and politics work hand in hand and function similarly. Many of the same factions will exist within each religion, each operating as their own ecosystem of thought and motives. In our own world, I would like to call out a major religion to use as an example: Christianity. Most Christians adhere to a similar basis of core values, but are split into countless factions of belief, some of which entirely divergent to the point where others of the same religion question whether or not they even belong in the same belief structure as their own. I'd imagine you could take a good look at any major religion and see similar situations 
 
-### Magic
+## Magic
 
 The way that magic works in the world is extremely important in determining the power structures and religions that shape it. This is simply because magic is the catch-all phrase attached to mystical powers that reshape the fabric of reality. This is the divine power granted from the gods, the fury of mother nature, the conviction of pious paladins, the ancestry of dragons, demons, and angels, deals with otherworldly beings, and a lifetime of obsessive studying and practice. 
 
@@ -95,7 +95,7 @@ Here are a couple of recommendations on how to identify and implement magic in y
 
 Magic is an interesting part of a world because it literally is a power available to shape reality. As such, it can and should be made a centerpiece in politics as well as religion. An Oligarchy of Wizards that run a country where most forms of religion are banned is a very compelling and interesting portion of the world that would make it function very differently than our own.
 
-### Technology
+## Technology
 
 Technology is very much a centerpiece in historical drama, or at least the tool used by one nation to dominate another. Technology is very similar to magic, in that it is embedded in the fabric of civilization and, by its nature, creates competition between nations and factions that often turn violent. 
 
@@ -114,7 +114,7 @@ Here are some questions to ask yourself to help you identify what role technolog
 
 Hopefully, these questions should prompt your writing juices to help you come up with some interesting ideas with how technology fits into your world. 
 
-### The Planes of Existence
+## The Planes of Existence
 
 The final topic to discuss: The Planes of Existence. I wanted to reserve this topic for last because of how involved it can be. All of the other main concepts of world building: politics, religion, magic, and technology all inevitably feed directly into the question: how does the cosmos / planes of existence work?
 
