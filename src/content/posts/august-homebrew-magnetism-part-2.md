@@ -4,8 +4,6 @@ date: 2019-08-25
 draft: true
 ---
 
-*written and edited by Dirk*
-
 Welcome back, everyone! This is the second part of our series on Magnetism. I hope you checked out our first article, aptly named Part 1, where I published the [Magnetized Condition](https://criticalgamemastery.com/posts/july-homebrew-magnetism-part-1/). 
 
 The spells I will be showing you today are built upon this Magnetized Condition. We had a blast preparing and testing these spells out and I hope you do as well. 
