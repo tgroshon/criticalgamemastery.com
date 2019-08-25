@@ -1,5 +1,5 @@
 ---
-title: "July Homebrew: Magnetism Part 1 - Magnetized Condition"
+title: "July Homebrew: Magnetism Pt. 1 - Magnetized Condition"
 date: 2019-07-28
 ---
 
