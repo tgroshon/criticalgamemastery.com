@@ -15,6 +15,24 @@ Click [here](https://homebrewery.naturalcrit.com/share/BkJukA34B) for a pdf vers
 
 Here is a link to the [Magnetized Condition](https://homebrewery.naturalcrit.com/share/SJSe3lfSMB) as well, in case you didn't check it out or you lost it. 
 
+Here are a couple reminders about the Magnetized Condition to get you primed: 
+- When a creature becomes Magnetized, it gains a number of polarity levels specified by the effect. These polarity levels are either positive or negative. 
+- You add together levels of the same polarity and subtract levels of the opposite: if you have 2 positive levels and gain 1 negative, you now have 1 positive level. 
+- Some effect's have limitations on how many levels can be gained
+- When Magnetized, a creature or object emits a magnetic field in a 5 x polarity level diameter sphere. This field attracts opposite polarities and repels same polarities. (*This is an optional rule that I personally like to use, but if you don't want the DM overhead, then don't use it*)
+- Here is the chart for the effects: 
+
+##### Polarity Levels
+| LEVEL | EFFECT |
+|:----:|:-------------|
+| 1 | Disadvantage on ability checks.  |
+| 2 | Attacks against the creature made with metal weapons have advantage and the creature’s attack rolls with metal weapons have disadvantage. |
+| 3 | Speed halved |
+| 4 | Restrained |
+| 5 | Stunned |
+| 6 | Unconscious |
+| 7 | Death |
+
 These spells are finished, as they have been thoroughly play tested on our end, but I am obviously happy to edit and revise them according to your suggestions and input. Here we go!
 
 ## Magnetism Spell List
