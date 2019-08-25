@@ -6,7 +6,6 @@ tags:
   - World Building
 categories: 
   - Article
-draft: true
 ---
 
 Welcome back to the second part of our World Building mini-series! This article assumes you read [July 2019’s article on World Building: Setting the Stage]((https://criticalgamemastery.com/posts/july-article-world-building-part-1/), however, you will still be able to follow along with this article even if you haven’t read it because these aren’t necessarily meant to be an exact Step-by-Step process for everyone. It is *my* / *our* process, but that does not mean it has to be yours. These steps can be taken in any order.

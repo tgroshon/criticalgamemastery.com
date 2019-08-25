@@ -6,7 +6,6 @@ tags:
   - Magnetism
 categories: 
   - Homebrew
-draft: true
 ---
 
 Welcome back, everyone! This is the second part of our series on Magnetism. I hope you checked out our first article, aptly named Part 1, where I published the [Magnetized Condition](https://criticalgamemastery.com/posts/july-homebrew-magnetism-part-1/). 
