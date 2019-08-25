@@ -1,6 +1,11 @@
 ---
 title: "August Article: World Building Pt. 2 - How the World Works"
 date: 2019-08-25
+tags: 
+  - Otamhs
+  - World Building
+categories: 
+  - Article
 draft: true
 ---
 

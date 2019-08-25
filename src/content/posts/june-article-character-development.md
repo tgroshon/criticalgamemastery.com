@@ -3,6 +3,9 @@ title: "June Article: One Shot - Character Development"
 date: 2019-06-30
 tags:
   - Dirk
+  - One Shot
+categories: 
+  - Article
 ---
 
 Let’s talk about character development (name drop). Have you ever made an NPC, or for you pretty players out there, met an NPC, that you wanted to like but you just... couldn’t? What about one that was so memorable that you and your friends joke about it as an inside joke or reference him/her/it for YEARS afterwards?!

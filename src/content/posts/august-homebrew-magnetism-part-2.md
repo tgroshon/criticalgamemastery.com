@@ -1,6 +1,11 @@
 ---
 title: "August Homebrew: Magnetism Pt. 2 - Spells"
 date: 2019-08-25
+tags: 
+  - Dirk
+  - Magnetism
+categories: 
+  - Homebrew
 draft: true
 ---
 

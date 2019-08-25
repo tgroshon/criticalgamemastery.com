@@ -1,6 +1,11 @@
 ---
 title: "July Homebrew: Magnetism Pt. 1 - Magnetized Condition"
 date: 2019-07-28
+tags: 
+  - Dirk
+  - Magnetism
+categories: 
+  - Homebrew
 ---
 
 Hey folks. Dirk here. I’ve been working on making some spells, items and subclasses based around Magnetism. This is partly because Magneto is my favorite X-Men villain and partly because magnets are super cool. 
