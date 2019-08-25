@@ -3,6 +3,8 @@ title: "July Homebrew: Magnetism Pt. 1 - Magnetized Condition"
 date: 2019-07-28
 ---
 
+*written by Dirk*
+
 Hey folks. Dirk here. I’ve been working on making some spells, items and subclasses based around Magnetism. This is partly because Magneto is my favorite X-Men villain and partly because magnets are super cool. 
 
 I’m going to be releasing my work in pieces to help keep things organized and coherent, as well as give me the time to properly playtest my work with the groups I play with. This first post is the Magnetized Condition, which is the cornerstone of effectively implementing Magnetism-themed magic and subclasses.

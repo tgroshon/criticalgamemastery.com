@@ -1,10 +1,9 @@
 ---
-title: "August: World Building Part 2"
+title: "August: World Building Pt. 2 - How the World Works"
 date: 2019-08-25
 draft: true
 ---
 
-# World Building: How the World Works
 *written by Otamhs*
 *edited by Dirk*
 

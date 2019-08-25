@@ -1,10 +1,9 @@
 ---
-title: "August Homebrew: Magnetism Part 2 - Spells"
+title: "August Homebrew: Magnetism Pt. 2 - Spells"
 date: 2019-08-25
 draft: true
 ---
 
-# Magnetism Part 2: Spells
 *written and edited by Dirk*
 
 Welcome back, everyone! This is the second part of our series on Magnetism. I hope you checked out our first article, aptly named Part 1, where I published the [Magnetized Condition](https://criticalgamemastery.com/posts/july-homebrew-magnetism-part-1/). 
