@@ -77,7 +77,7 @@ If two creatures or objects with a different polarity share a magnetic field, al
 
 If a creature has a polarity level of 3 or higher, any creatures of a different polarity that ends their turn within its field must succeed on a Strength saving throw or be moved 10 feet closer to them, or half as much on a successful one. If the creature is already within 5 feet, then both creatures are considered grappling each other, albeit possibly unwillingly. Creatures grappled in this way use the polarity DC as the escape DC.
 
-Thank you for reading. I hope you feel inspired to implement this condition into your games. Please join the discussion on [Discord](https://discord.gg/M3rEEGX). For an in depth scoop on how we designed things behind the scenes, please support us on [Patreon](https://www.patreon.com/CriticalGameMastery)
+Thank you for reading. I hope you feel inspired to implement this condition into your games. Please join the discussion on [Discord](https://discord.gg/M3rEEGX). For an in depth scoop on how we designed things behind-the-scenes, please support us on [Patreon](https://www.patreon.com/CriticalGameMastery)
   
 Thank you for reading,
 

@@ -121,7 +121,7 @@ The players may not honestly show that much interest simply because everyone pla
 
 That’s all I have for this article. Stay tuned in the coming months as I post the next steps I use to build my worlds. I would love to hear your stories and methods YOU use. 
 
-Please join us on [Discord] (https://discord.gg/M3rEEGX) and talk with us about nerdy things. For an in depth scoop on how things work behind the scenes, please support us on [Patreon] (https://www.patreon.com/CriticalGameMastery)
+Please join us on [Discord] (https://discord.gg/M3rEEGX) and talk with us about nerdy things. For an in depth scoop on how things work behind-the-scenes, please support us on [Patreon] (https://www.patreon.com/CriticalGameMastery)
 
 Thank you for reading,
 

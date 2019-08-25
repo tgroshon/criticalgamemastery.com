@@ -166,7 +166,7 @@ Here are some questions I recommend asking yourself as you are creating the cosm
 
 ## Conclusion
 
-My hope is that you have found something of use, in some part of this article, that can be used to help build your world to be a more interesting and inspiring place to bring joy and excitement to a game you and I love. I know that these things help me, and I am confident they can help you. As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to join us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind the scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
+My hope is that you have found something of use, in some part of this article, that can be used to help build your world to be a more interesting and inspiring place to bring joy and excitement to a game you and I love. I know that these things help me, and I am confident they can help you. As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to join us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind-the-scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
 
 Thank you for reading,
 
