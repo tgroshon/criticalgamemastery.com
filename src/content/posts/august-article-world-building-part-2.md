@@ -16,11 +16,11 @@ When Dirk or I go to build a world from the ground up, we do prefer to set up th
 
 The main key points that are filled in for the new world are the following:
 
-+ Politics
-+ Religion
-+ Magic
-+ Technology
-+ Planes of Existence
++ **Politics**
++ **Religion**
++ **Magic**
++ **Technology**
++ **Planes of Existence**
 
 These points are in no particular order, because they normally work hand-in-hand in establishing the history of the world as well as helping the players feel like the world is new and different from anything else they have experienced, even though you are probably going to steal mercilessly from writers infinitely more successful than you or I.
 
