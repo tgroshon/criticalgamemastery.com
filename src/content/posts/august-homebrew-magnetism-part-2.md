@@ -13,7 +13,7 @@ Welcome back, everyone! This is the second part of our series on Magnetism. I ho
 
 The spells I will be showing you today are built upon this Magnetized Condition. We had a blast preparing and testing these spells out and I hope you do as well. 
 
-Click [here](https://homebrewery.naturalcrit.com/share/BkJukA34B) for a pdf version.
+For now, the spells go from 0 to 5th and there is a total of 10. In the future, I will be adding in 6th to 9th level spells. The goal is to have 2-3 spells per level and 1 each for 8th and 9th. The tricky part is, a lot of the things that would normally be done at those higher levels are already done with spells from the Player's Handbook. By this, I'm talking about [Earthquake](https://www.dnd-spells.com/spell/earthquake), [Reverse Gravity](https://www.dnd-spells.com/spell/reverse-gravity), and [Meteor Swarm](https://www.dnd-spells.com/spell/meteor-swarm). 
 
 Here is a link to the [Magnetized Condition](https://homebrewery.naturalcrit.com/share/SJSe3lfSMB) as well, in case you didn't check it out or you lost it. 
 
@@ -22,7 +22,6 @@ Here are a couple reminders about the Magnetized Condition to get you primed:
 - You add together levels of the same polarity and subtract levels of the opposite: if you have 2 positive levels and gain 1 negative, you now have 1 positive level. 
 - Some effect's have limitations on how many levels can be gained
 - When Magnetized, a creature or object emits a magnetic field in a 5 x polarity level diameter sphere. This field attracts opposite polarities and repels same polarities. (*This is an optional rule that I personally like to use, but if you don't want the DM overhead, then don't use it*)
-- Here is the chart for the effects: 
 
 ##### Polarity Levels
 | LEVEL | EFFECT |
@@ -36,6 +35,8 @@ Here are a couple reminders about the Magnetized Condition to get you primed:
 | 7 | Death |
 
 These spells are finished, as they have been thoroughly play tested on our end, but I am obviously happy to edit and revise them according to your suggestions and input. Here we go!
+
+Click [here](https://homebrewery.naturalcrit.com/share/BkJukA34B) for a pdf version.
 
 ## Magnetism Spell List
 
