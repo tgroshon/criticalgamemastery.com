@@ -22,7 +22,7 @@ Here are a couple reminders about the Magnetized Condition to get you primed:
 - Some effect's have limitations on how many levels can be gained
 - When Magnetized, a creature or object emits a magnetic field in a 5 x polarity level diameter sphere. This field attracts opposite polarities and repels same polarities. (*This is an optional rule that I personally like to use, but if you don't want the DM overhead, then don't use it*)
 
-##### Polarity Levels
+### Polarity Levels
 | LEVEL | EFFECT |
 |:----:|:-------------|
 | 1 | Disadvantage on ability checks.  |
