@@ -228,7 +228,7 @@ The wall is an object made of iron that can be damaged and thus breached. The wa
 
 Thank you for your time and for reading what we have prepared for you. I hope these spells find a place at your table and you can have as much fun with them as we did. If you have any criticisms or feedback, we would **love** to hear it!
 
-As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to join us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind the scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
+As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to join us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind-the-scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
 
 Thank you for reading,
 
