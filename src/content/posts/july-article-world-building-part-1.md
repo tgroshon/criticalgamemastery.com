@@ -1,5 +1,5 @@
 ---
-title: "July: World Building Pt. 1 - Setting the Stage"
+title: "July Article: World Building Pt. 1 - Setting the Stage"
 date: 2019-07-28
 ---
 

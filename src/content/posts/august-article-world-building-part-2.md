@@ -1,5 +1,5 @@
 ---
-title: "August: World Building Pt. 2 - How the World Works"
+title: "August Article: World Building Pt. 2 - How the World Works"
 date: 2019-08-25
 draft: true
 ---
