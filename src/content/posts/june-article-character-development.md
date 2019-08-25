@@ -1,5 +1,5 @@
 ---
-title: "June: Character Development"
+title: "June Article: One Shot - Character Development"
 date: 2019-06-30
 tags:
   - Dirk
