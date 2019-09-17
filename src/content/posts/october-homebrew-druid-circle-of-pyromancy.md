@@ -10,6 +10,11 @@ categories:
   - Homebrew
 ---
 
+TO DO LIST
+- INTRODUCTION
+- LINK TO HOMEBREWERY
+- CONCLUSION
+
 # Druid Circle of Pyromancy
 *Nature is not always flowers, rainbows and sunshine. It isn’t always the soothing breeze through your hair and gentle rains nourishing the crops of humanity. It is also fire. It is destruction. It is the lava spewing from the ash plumed volcanos. Druids of the Pyromancy Circle draw their power from these sources of nature and more.*
 

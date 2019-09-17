@@ -10,6 +10,11 @@ categories:
   - Homebrew
 ---
 
+TO DO LIST
+- INTRODUCTION
+- LINK TO HOMEBREWERY
+- CONCLUSION
+
 # Sorcererous Origin: Jade Phoenix Mage
 *"Long ago, a fellowship of swordsages known as the Masters of the Jade Phoenix took up the study of arcane magic in search of a new martial discipline. They discovered that the mental austerity and economy of action each swordsage had cultivated in his martial studies opened the door to a powerful and unique form of arcane mastery. Properly applied, the stances and maneuvers of a martial discipline provided the mage with exceptional power and control in his arcane spellcasting - and by channeling the arcane energy of his spells into his martial maneuvers, be achieved supernatural perfection in his chosen disciplines.*
 
