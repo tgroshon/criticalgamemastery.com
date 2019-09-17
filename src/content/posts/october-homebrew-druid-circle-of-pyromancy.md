@@ -52,7 +52,7 @@ You can dismiss your Chaos Flame on your turn without using an action.
 > d4 > d6 > d8 > d10 > d12
 
 ### Power Within
-Beginning at 6th level, while your Chaos Flame is active, you know and may cast the spellwarp: molten cantrip.
+Beginning at 6th level, while your Chaos Flame is active, you know and may cast the *spellwarp: molten* cantrip.
 
 Once per turn, when you deal damage with a molten or chaos spell, you can choose to deal an extra die of damage. You take damage equal to the result that cannot be reduced or ignored and your maximum hit points are lowered by the same amount until you finish a long rest.
 
@@ -74,7 +74,7 @@ Starting at 14th level, whenever you summon your Chaos Flame, you can expend an 
 >
 > Valid spells have to having a matching damage type or school and either rely upon a spell attack roll or saving throw.
 
-## Spell Warping
+## Spell Variants
 The following descriptors can be added to existing spells to create new versions and add new effects. Only one variation can be applied to a spell at a time. Many spell warping traits split the modified damage of the spell into two sets of damage dice. The caster chooses which damage type to round the dice to.
 
 #### Chaos

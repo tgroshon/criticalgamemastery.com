@@ -2,6 +2,7 @@
 title: "August Article: World Building Pt. 2 - How the World Works"
 date: 2019-08-25
 tags: 
+  - Dirk
   - Otamhs
   - World Building
 categories: 

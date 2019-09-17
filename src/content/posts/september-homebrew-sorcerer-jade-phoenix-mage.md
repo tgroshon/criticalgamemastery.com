@@ -66,9 +66,9 @@ Once you have used this feature, you can’t do so again until you finish a long
 > - **Components**: S
 > - **Duration**: Instantaneous
 >
->You manifest a sword of soul energy in your open hand and swing it at a creature within 5 feet of you. Make a melee spell attack targeting a creature in range. On a hit the target takes 1d10 Force damage.
+> You manifest a sword of soul energy in your open hand and swing it at a creature within 5 feet of you. Make a melee spell attack targeting a creature in range. On a hit the target takes 1d10 Force damage.
 >
->This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+> This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### New Background
 #### Reincarnated
