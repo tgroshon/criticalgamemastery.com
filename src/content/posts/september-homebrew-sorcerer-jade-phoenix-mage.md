@@ -20,13 +20,15 @@ categories:
 *- The Book of Nine Swords*
 
 
-### Quirks
-1. A mysterious tattoo appears somewhere on your body of the Jade Phoenix.
-2. Sorcerer spells you cast emit green flames and leave trails of ash.
-3. You have trouble separating the memories of your current self from your past selves.
-4. When you bleed, your blood turns to ash as it falls to the ground.
-5. Your skin feels hot to the touch as if you were suffering from a severe fever.
-6. Your eyes glow an otherworldly emerald green color.
+##### Quirks
+| 1d6 | Jade Phoenix Mage Quirk |
+|:----:|:-------------|
+| **1** | A mysterious tattoo appears somewhere on your body of the Jade Phoenix. |
+| **2** | Sorcerer spells you cast emit green flames and leave trails of ash. |
+| **3** | You have trouble separating the memories of your current self from your past selves. |
+| **4** | When you bleed, your blood turns to ash as it falls to the ground. |
+| **5** | Your skin feels hot to the touch as if you were suffering from a severe fever. |
+| **6** | Your eyes glow an otherworldly emerald green color. |
 
 
 ### Martial Study
@@ -37,6 +39,7 @@ At 6th level, once per turn when you hit a creature with a melee spell or weapon
 
 ### Mystic Stance
 At 14th level, as a bonus action you enter one of the following stances, gaining it’s benefits for 1 minute or until you lose your concentration (as if you were casting a concentration spell):
+
 - **Mystic Phoenix Stance**: You reduce the sorcery point cost for any Metamagics you know by 1, to a minimum of 0.
 - **Firebird Stance**: You gain resistance to fire damage and once per turn, when you hit with a spell or weapon attack, you can deal extra fire damage equal to your charisma modifier.
 
@@ -46,20 +49,21 @@ Once you use this feature, you can’t use it again until you finish a short or 
 At 18th level, you can immolate yourself with the cosmic, consumptive power of the Jade Phoenix. As an action, you explode in a searing blast of green fire in a 20-foot radius. All creatures in the blast must succeed on a Dexterity saving throw or take 10d6 fire damage and 10d6 force damage, or half as much on a successful one. 
 
 Creatures native to different plane of existence must immediately succeed on a Charisma saving throw or be banished to their home plane. This blast utterly destroys you, but 1d6 rounds later, you re-form in the exact spot where you were when you employed this ability. You are incapacitated for 1 round after you reappear, but you are healed of all damage and all conditions are removed. Any equipment you were wearing or objects you were holding or carrying when you used this ability re-form with you, exactly as they were.
+
 Once you have used this feature, you can’t do so again until you finish a long rest.
 
-### New Cantrip
-#### Soul Blade
-*Conjuration*
-- **Class**: Sorcerer
-- **Casting Time**: 1 action
-- **Range**: Self (5 feet)
-- **Components**: S
-- **Duration**: Instantaneous
-
-You manifest a sword of soul energy in your open hand and swing it at a creature within 5 feet of you. Make a melee spell attack targeting a creature in range. On a hit the target takes 1d10 Force damage.
-
-This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+> ### New Cantrip: Soul Blade
+> *Conjuration*
+>
+> - **Class**: Sorcerer
+> - **Casting Time**: 1 action
+> - **Range**: Self (5 feet)
+> - **Components**: S
+> - **Duration**: Instantaneous
+>
+>You manifest a sword of soul energy in your open hand and swing it at a creature within 5 feet of you. Make a melee spell attack targeting a creature in range. On a hit the target takes 1d10 Force damage.
+>
+>This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### New Background
 #### Reincarnated
@@ -70,63 +74,75 @@ This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th le
 - **Tools**: One gaming set of your choice
 - **Languages**: Any two languages of your choice
 
-#### Items
+#### Equipment
 A set of traveler’s clothes,  explorer’s pack, dagger, notebook, set of 5 quills and inkwell, gaming set of choice, trinket from a former life, pouch with 10 gold.
 
 #### Feature: Rite of Waking
   The memories of your past lives will sometimes inspire you to meet certain people, go to certain places, or find certain objects in the hopes that it will guide you in your path towards your higher purpose. Furthermore, you know a piece of trivia about old locations and people that only someone who lived during those times would know.
 
-##### Origin (d8)
-1. Curse
-2. Gift 
-3. Alchemical Discovery
-4. Fall from Origins
-5. Inherent Nature
-6. Magical Rite
-7. Body Transformation
-8. Greater Parentage
+##### Origin
+| d8 | Description |
+|:----:|:-------------|
+| **1** | Curse |
+| **2** | Gift |
+| **3** | Alchemical Discovery |
+| **4** | Fall from Origins |
+| **5** | Inherent Nature |
+| **6** | Magical Rite |
+| **7** | Body Transformation |
+| **8** | Greater Parentage |
 
-##### Higher Purpose (d6)
-1. None.
-2. Bear witness to the nature of humanity.
-3. Defeat a specific Prince of Hell.
-4. Defeat a powerful, otherworldly entity.
-5. Protect the realms from a recurring calamity.
-6. Slay a specific God.
+##### Higher Purpose
+| d6 | Description |
+|:----:|:-------------|
+| **1** | None. |
+| **2** | Bear witness to the nature of humanity |
+| **3** | Defeat a specific Prince of Hell |
+| **4** | Defeat a powerful, otherworldly entity |
+| **5** | Protect the realms from recurring calamity |
+| **6** | Slay a specific God |
 
-##### Personality Trait (d8)
-1. I am blunt and speak my mind with no regards to others feelings.
-2. I am desensitized to life and show little empathy.
-3. I loathe the idea of becoming close to anyone and eventually watching them die.
-4. With nothing to lose, I will live a life of excitement.
-5. Nothing really scares or phases me.
-6. I cannot lose my life, but there are consequences worse than death.
-7. I am keeping a list of all the things I have left to do. It’s not very long.
-8. Life is meaningless, so who cares if we live or die?
+##### Personality Trait
+| d8 | Description |
+|:----:|:-------------|
+| **1** | I am blunt and speak my mind with no regards to others feelings. |
+| **2** | I am desensitized to life and show little empathy. |
+| **3** | I loathe the idea of becoming close to anyone and eventually watching them die. |
+| **4** | With nothing to lose, I will live a life of excitement. |
+| **5** | Nothing really scares or phases me. |
+| **6** | I cannot lose my life, but there are consequences worse than death. |
+| **7** | I am keeping a list of all the things I have left to do. It’s not very long. |
+| **8** | Life is meaningless, so who cares if we live or die? |
 
-##### Ideal (d6)
-1. Impulsive. I do whatever takes my fancy at that moment, without much thought. (Neutral)
-2. Logic: Emotions must not cloud our logical thinking to accomplish our task. (Lawful)
-3. Excitement. There's no reason to live forever if you aren't constantly doing new things! (Chaotic)
-4. Selflessness. I am immortal for a reason. I will sacrifice my life time and time again for the greater good (Good)
-5. Power. Clearly my immortality makes me better than everyone else. I deserve the world. (Evil)
-6. Reclusiveness. Stay away from me, I don't want to get attached, just to watch you die! (Neutral)
+##### Ideal
+| d6 | Description |
+|:----:|:-------------|
+| **1** | Impulsive. I do whatever takes my fancy at that moment, without much thought. (Neutral) |
+| **2** | Logic: Emotions must not cloud our logical thinking to accomplish our task. (Lawful) |
+| **3** | Excitement. There's no reason to live forever if you aren't constantly doing new things! (Chaotic) |
+| **4** | Selflessness. I am immortal for a reason. I will sacrifice my life time and time again for the greater good (Good) |
+| **5** | Power. Clearly my immortality makes me better than everyone else. I deserve the world. (Evil) |
+| **6** | Reclusiveness. Stay away from me, I don't want to get attached, just to watch you die! (Neutral) |
 
-##### Bond (d6)
-1. A Higher Power granted me my immortality, and I must follow their will.	
-2. Something granted me my immortality, but I cannot let its plan succeed!
-3. You have a bond with someone who died long ago and you still protect their descendants
-4. I keep a record of all things that have happened over my lifetimes, a collection that could otherwise be lost to time.
-5. I just want to die. My life's gone on for a very long time and I think my time's finally come... but perhaps a reason to live can change this.
-6. I don't want to die. The world is always changing and I never want to miss what happens next
+##### Bond
+| d6 | Description |
+|:----:|:-------------|
+| **1** | A Higher Power granted me my immortality, and I must follow their will. |
+| **2** | Something granted me my immortality, but I cannot let its plan succeed! |
+| **3** | You have a bond with someone who died long ago and you still protect their descendants |
+| **4** | I keep a record of all things that have happened over my lifetimes, a collection that could otherwise be lost to time. |
+| **5** | I just want to die. My life's gone on for a very long time and I think my time's finally come... but perhaps a reason to live can change this. |
+| **6** | I don't want to die. The world is always changing and I never want to miss what happens next |
 
-##### Flaw (d6)
-1. I have grown apathetic to conflict after seeing so much of it.
-2. I don't form lasting attachments, because I know they will fail.
-3. I am aimless, and don't devote myself to anything.
-4. I am detached from the concept of death, even in regards to others.
-5. My empathy has waned over the centuries.
-6. I care more about pleasing myself than anything else.
+##### Flaw
+| d6 | Description |
+|:----:|:-------------|
+| **1** | I have grown apathetic to conflict after seeing so much of it.|
+| **2** | I don't form lasting attachments, because I know they will fail. |
+| **3** | I am aimless, and don't devote myself to anything. |
+| **4** | I am detached from the concept of death, even in regards to others. |
+| **5** | My empathy has waned over the centuries. |
+| **6** | I care more about pleasing myself than anything else. |
 
 > #### Design Notes
 > The JPM was always a favorite class of mine from the 3.5 era. It was like the Immortal Iron Fist with spellcasting. For the best effect, I’d recommend the player choose the Soul Blade CGM Cantrip.
