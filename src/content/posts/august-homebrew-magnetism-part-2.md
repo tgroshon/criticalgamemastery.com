@@ -65,7 +65,7 @@ Harnessing the power of magnetism is more of a calling born from a desire to har
 
 ## Spell Descriptions
 
-#### Crushing Electro-Sphere
+### Crushing Electro-Sphere
 *5th-level evocation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -84,7 +84,7 @@ While concentrating on this spell, you can perform a variety of actions; creatur
 
 When you cast this spell, you may also use the Envelope option as a bonus action before the end of your turn.
 
-#### EMD (Electro-Magnetic Defenestration) Sphere
+### EMD (Electro-Magnetic Defenestration) Sphere
 *4th-level evocation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -96,7 +96,7 @@ A sphere of shifting electro-magnetic energy 2 feet in diamter appears between y
 
 Additionally, any creature Large or smaller that fails it's Dexterity save is picked up and launched 30 feet straight up into the air, taking falling damage as applicable. If an obstacle prevents the creature from reaching the full height, it takes 1d6 Bludgeoning damage for every 10 feet of movement it was unable to complete. Creatures that are Magnetized with at least 1 level of any polarity have disadvantage on their saving throws versus this spell.
 
-#### Electro-Magnetic Orb
+### Electro-Magnetic Orb
 *1st-level evocation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -110,7 +110,7 @@ At the end of the creature's turn, it may make a Constitution save to lower it's
 
 **At Higher Levels**: When you cast this spell using a spell slot of 2nd level or higher, the intial and recurring damage increases by 1d10 for each slot level above 1st. 
 
-#### Harness Electro-Magnetism
+### Harness Electro-Magnetism
 *3rd-level transmutation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -130,7 +130,7 @@ If you are outdoors in stormy conditions when you cast this spell, you draw powe
 
 **At Higher Levels**: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd. 
 
-#### Ionic Bonding
+### Ionic Bonding
 *3rd-level transmutation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -144,7 +144,7 @@ A creature that is Magnetized by this spell may attempt a Constitution save at t
 
 **At Higher Levels**: When you cast this spell using a spell slot of 5th level or higher, you may target an additional creature for every two slot levels above 3rd. 
 
-#### Impale
+### Impale
 *2nd-level transmutation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -156,7 +156,7 @@ You distort the magnetic field below a creature you can see within range to form
 
 **At Higher Levels**: When you cast this spell from a slot 3rd level or higher, you may choose an additional target for each spell level higher than 3rd. 
 
-#### Iron Shrapnel
+### Iron Shrapnel
 *1st-level transmutation*
 
 - **Casting Time:** 1 action
@@ -166,7 +166,7 @@ You distort the magnetic field below a creature you can see within range to form
 
 Make a ranged spell attack against a creature you can see within range. If you hit, the creature takes 2d10 piercing damage and has disadvantage on its next saving throw against a spell or ability that deals lightning damage before the end of your next turn. 
 
-#### Magnetizing Shock
+### Magnetizing Shock
 *evocation cantrip [magnetic]*
 
 - **Casting Time:** 1 action
@@ -180,7 +180,7 @@ Alternatively, you may target an unattended object within range that weighs at l
 
 This spell's damage increases by 1d6 lightning damage when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-#### Magnetic Surge
+### Magnetic Surge
 *1st-level evocation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -196,7 +196,7 @@ If a creature is in the center of the sphere when the spell is cast, it must suc
 
 **Negative Polarity**: Objects are launched 30 feet away from the creature holding it in the most direct path away from the center of the sphere.
 
-#### Static Charge
+### Static Charge
 *2nd-level evocation [magnetic]*
 
 - **Casting Time:** 1 action
@@ -208,7 +208,7 @@ You charge your body with electro-magnetic energy of a polarity of your choice t
 
 **At Higher Levels**: When you cast this spell using a spell slot of 3rd level or higher, the initial damage and maximum damage increases by 1d6 for each slot level above 2nd.
 
-#### Wall of Magnetic Iron
+### Wall of Magnetic Iron
 *5th-level conjuration [magnetic]*
 
 - **Casting Time:** 1 action
