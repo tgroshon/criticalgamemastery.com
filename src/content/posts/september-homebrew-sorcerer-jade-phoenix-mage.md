@@ -10,10 +10,13 @@ categories:
   - Homebrew
 ---
 
-TO DO LIST
-- INTRODUCTION
-- LINK TO HOMEBREWERY
-- CONCLUSION
+Welcome to this months homebrew! This one is a favorite of mine every since Wizards of the Coast published The Book of Nine Swords. Yes, I will be taking a reprieve of the Magnetism thing for the time being because I am extremely excited to showcase the work we at Critical Game Mastery has put together.
+
+A friend of mine will be playing this class and providing live feedback while I run the Descent into Avernus game. This homebrew comes with a subclass, new cantrip, and a new background, all made to work together. 
+
+Tell me what you think!
+
+Here is the homebrewery [link](https://homebrewery.naturalcrit.com/share/H1-hrWOu8B)
 
 # Sorcererous Origin: Jade Phoenix Mage
 *"Long ago, a fellowship of swordsages known as the Masters of the Jade Phoenix took up the study of arcane magic in search of a new martial discipline. They discovered that the mental austerity and economy of action each swordsage had cultivated in his martial studies opened the door to a powerful and unique form of arcane mastery. Properly applied, the stances and maneuvers of a martial discipline provided the mage with exceptional power and control in his arcane spellcasting - and by channeling the arcane energy of his spells into his martial maneuvers, be achieved supernatural perfection in his chosen disciplines.*
@@ -161,3 +164,14 @@ A set of traveler’s clothes,  explorer’s pack, dagger, notebook, set of 5 qu
 > **Emerald Immolation**: The capstone of the JPM. I basically ripped this directly from the original class and simply updated it for the new edition. I kept the damage the same and change the types to fire and force. This is where the Phoenix part of the class becomes evident, in a nuclear explosion that resurrects you from the ashes.
 >
 > **Multiclassing**: It’s not a bad idea for the JPM to multiclassing into Warlock for Hexblade, giving access to Pact of the Blade and other invocations.
+
+## Conclusion 
+That's all I have for this month. I hope you like it. This one was very time consuming but absolutely a blast to make and test. 
+
+As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to join us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind-the-scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
+
+Thank you for reading,
+
+Dirk
+
+Critical Game Mastery
