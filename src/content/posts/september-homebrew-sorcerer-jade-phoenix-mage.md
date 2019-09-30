@@ -1,7 +1,6 @@
 ---
 title: "September Homebrew: Sorcerous Origin - Jade Phoenix Mage"
 date: 2019-09-29
-draft: true
 tags: 
   - Dirk
   - Subclasses
