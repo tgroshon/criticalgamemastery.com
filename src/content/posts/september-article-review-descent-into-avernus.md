@@ -100,7 +100,7 @@ Personally, I will be doing a few modifications to the story. I don’t want to 
 
 Thank you for reading my ramblings for the month. I'm very excited to run Descent into Avernus. I will post updates and things I would do better as I run the campaign. It should start at the end of October, assuming my current campaign wraps up on schedule.
 
-As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to join us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind-the-scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
+As always, please feel free to join us on [discord](https://discord.gg/M3rEEGX) to talk about all things nerdy. If you like our work and want to support the Critical Game Mastery crew, then you are welcome to support us on [Patreon](https://www.patreon.com/CriticalGameMastery) to get a behind-the-scenes scoop on how we do things, as well as some deep cuts on what our plans are for the future and what to expect. 
 
 Thank you for reading,
 
