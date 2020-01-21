@@ -1,5 +1,5 @@
 ---
-title: "January Article: Descent into Avernus Chapter 1 Review
+title: "January Article: Descent into Avernus Chapter 1 Review"
 date: 2020-01-26
 tags: 
   - Dirk
