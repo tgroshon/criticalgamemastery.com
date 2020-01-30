@@ -129,7 +129,9 @@ The party found some cultists on patrol with incense burners, which were swiftly
 
 After some uncertainty, the party decides to attack the cultists. The cultists are cheap and flimsy, but the Barbed Devil can put up a good fight against low-level characters, especially when he is dangerous with ranged attacks and melee attacks. 
 
-Once the party dispatched the cultists and the devil, they explored the Shrine. Here, the players decided to insult the Archduke, and I made a big mistake. In the interest of making things more interesting, I described the consequence for their rudeness as follows:  *"You look into the glowing white eyes of the Archduke and spew your insults. A shudder of stinking sewer air ripples through the room and snuffs out all of the candles and lit lanterns in the corridors surrounding the Shrine. You feel like your insults were heard."*
+Once the party dispatched the cultists and the devil, they explored the Shrine. Here, the players decided to insult the Archduke, and I made a big mistake. In the interest of making things more interesting, I described the consequence for their rudeness as follows:
+
+ *"You look into the glowing white eyes of the Archduke and spew your insults. A shudder of stinking sewer air ripples through the room and snuffs out all of the candles and lit lanterns in the corridors surrounding the Shrine. You feel like your insults were heard."*
 
 The party attempted to light a torch, which was immediately snuffed out. The only light in the room coming from the glowing eyes of the statue of the Archduke. The party did not bring any magical sources of light with them, through abilities, spells, or otherwise, so most of them were stuck in darkness. Instead of choosing to go back upstairs and either wait out the darkness or look for a magical source of light to dispel the darkness, they barricaded themselves into a neighboring room (the kitchen and dining area) and attempted a short rest. Enter part two of my big mistake. 
 
