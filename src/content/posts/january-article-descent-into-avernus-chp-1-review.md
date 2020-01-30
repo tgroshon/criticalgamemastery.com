@@ -7,7 +7,6 @@ tags:
 categories: 
   - Article
   - Descent into Avernus
-Draft: true
 ---
 
 For the past few months, I have been running the Descent into Avernus campaign module. With the holidays and various scheduling conflicts, we had gone from being able to meet biweekly to meeting no-weekly. Luckily, January has been way better for us being able to get together, which has allowed us to finally finish Chapter 1. 
