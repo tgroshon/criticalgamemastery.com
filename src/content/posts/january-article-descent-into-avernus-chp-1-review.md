@@ -10,7 +10,7 @@ categories:
 Draft: true
 ---
 
-For the past few months, I have been running the Descent into Avernus campaign module. With the holidays and various scheduling conflicts, we had gone from being able to meet biweekly to meeting no-weekly. Luckily, January has been way better for us being able to get together, which has allowed us to finally (nearly) finish Chapter 1. 
+For the past few months, I have been running the Descent into Avernus campaign module. With the holidays and various scheduling conflicts, we had gone from being able to meet biweekly to meeting no-weekly. Luckily, January has been way better for us being able to get together, which has allowed us to finally finish Chapter 1. 
 
 I would like to share my experiences running the game, as well as the experiences shared with me from the players so you can learn from my successes and failures. 
 
@@ -244,6 +244,3 @@ Thank you for reading,
 Dirk
 
 Critical Game Mastery
-
-
-
