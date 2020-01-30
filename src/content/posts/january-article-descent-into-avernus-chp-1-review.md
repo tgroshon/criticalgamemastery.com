@@ -212,6 +212,7 @@ The party eventually left the inn and went to meet their contact, a Wizard who h
 Something I added new was that I slipped in that the party should first go to Elturel and see if there is anything left of the city to save. Afterwards, they need to venture deeper into Avernus to meet Mordenkainen, who can hopefully give them guidance on how to save Elturel.The rest of the chapter played out exactly as written in the book. The Wizard opened the puzzle box provided by the party, read off a contract that damned Elturel and it’s citizens to Avernus, and dispatched the players to meet her associate to transport them to Hell. 
 
 One change that I did make was that the Wizard requested the players to assist in finding a way to return Elturel from Hell, and save thousands of lives by extension. The way the players could do this was:
+
 1. To travel directly to Elturel to assess the extent of the damage and see if there is anything left to be saved. 
 2. If the city still has people willing to fight back, help mount or organize any resistance to help protect the citizens as best as possible until a proper solution can be found. 
 3. Bring the opened puzzle box and it’s contents to Mordenkainen on the plains of Avernus and consult with him for options to release Elturel from hell by either voiding the contract or by writing a new one with Zariel.
