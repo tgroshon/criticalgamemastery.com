@@ -224,6 +224,7 @@ Fade to black.
 
 ## Unused Campaign hooks
 Here are some hooks that I would like to use to integrate the characters more fully into the game if I were to run this campaign again:
+
 1. The Guild is having issues with their extortion racket they are running due to many of their "customers" being attacked and intimidated by a new set of baddies on the block. Devil cultists. The party is tasked with shaking down some of the Guild’s clients for information and subsequently put an end to the threat to their crime monopoly. 
 2. The party is coming home from an evening of drinking and general adventurer stuff when they stumble upon cultists beating / kidnapping / murdering some Elturel refugees. The players stop the assault and either question the cultists or find a trinket on them that leads them to the cultist hideout.
 3. One of the party member’s main contacts, friends, or family members has been kidnapped. The authorities aren’t doing anything about it because people go missing in Baldur’s Gate all the time. The only clue you have is a tattered piece of black cloth with a single rune, written in infernal, that says, "War."
